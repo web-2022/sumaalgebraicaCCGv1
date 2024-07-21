@@ -1,0 +1,58 @@
+body {
+    background-color: #f8f9fa; /* Color de fondo claro */
+}
+
+header, footer {
+    background-color: #007bff; /* Color azul de Bootstrap */
+    color: white;
+    padding: 15px 0;
+    border-radius: 5px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#teoria {
+    background-color: #e9ecef;
+}
+
+#teoria h2 {
+    font-size: 1.75rem;
+}
+
+#teoria p {
+    font-size: 1.2rem;
+}
+
+#imagen img {
+    max-width: 100%;
+    height: auto;
+}
+
+#contenido-ejercicio {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#pista-container {
+    background-color: #f1f1f1;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#pista-container p {
+    margin: 0;
+    padding: 5px 0;
+}
